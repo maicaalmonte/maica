@@ -9,7 +9,7 @@ cute n simple instruction :)
     ``` bash
       pip install pandas
 
-2. install openpxyl <3 for pdf conversion
+2. install openpxyl <3
 
    ``` bash
      pip install openpyxl
@@ -18,7 +18,11 @@ cute n simple instruction :)
    ``` bash
      pip install pandas openpyxl
 
-4. verify installation (to confirm if the packages are installed correctly) :)
+4. pdf conversion essential <3
+   ```bash
+       pip install pdfplumber openpyxl Pillow pytesseract numpy opencv-python
+
+5. verify installation (to confirm if the packages are installed correctly) :)
    
    ```bash
     import pandas as pd
