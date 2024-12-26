@@ -1,7 +1,7 @@
 ![Charlie Brown GIF by Peanuts - Find   Share on GIPHY](https://github.com/user-attachments/assets/00e6beeb-997e-4128-b546-4772411370b9)
 
 
-# 🤍🖤🩵💙💛🩷❤️🧡💚💜🤎🩶
+#
 cute n simple instruction :)
 
 1. install pandas <3
