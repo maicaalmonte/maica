@@ -9,7 +9,7 @@ cute n simple instruction :)
     ``` bash
       pip install pandas
 
-2. install openpxyl <3
+2. install openpyxl <3
 
    ``` bash
      pip install openpyxl
@@ -22,7 +22,7 @@ cute n simple instruction :)
    ```bash
        pip install pdfplumber openpyxl Pillow pytesseract numpy opencv-python
 
-5. verify installation (to confirm if the packages are installed correctly) :)
+5. verify installation (to confirm if the packages are installed correctly) <3
    
    ```bash
     import pandas as pd
